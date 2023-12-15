@@ -1,1 +1,12 @@
-use Use State hook to change the colour when button gets clicked
+import React,{ useState } from "react";
+
+
+function App() {
+  //Challenge 1: Render a H1 with a colour variable(initialise its colur using state variable)
+ //Challenge 2: Create a button,onclick which reflects the change in state of the colour variable
+
+  return (
+)
+}
+
+export default App;
